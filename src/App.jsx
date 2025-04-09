@@ -3,6 +3,7 @@ import Confetti from 'react-confetti'
 import { useWindowSize } from '@react-hook/window-size'
 
 const messages = [
+  "Ponnuseeyyy 😺",
   "You are stronger than you think 💪",
   "You make the world brighter 🌟",
   "Your smile is contagious 😄",
